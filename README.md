@@ -49,7 +49,7 @@ Control the music 🎧 with a custom player where you can play, pause, and see r
 
 ## 💻 Live Demo
 
-You can check out the live demo of the website [here](https://your-github-page-link).
+You can check out the live demo of the website [here](https://music-website-demo.vercel.app/).
 
 ## 🤝 Contributions
 
